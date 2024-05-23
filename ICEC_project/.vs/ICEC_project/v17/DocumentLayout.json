@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_folder\\ICEC_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A023B805-27AA-4D3E-AC0F-2B93CEE0A682}|ICEC_project.vcxproj|D:\\VS_folder\\ICEC_project\\engine.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A023B805-27AA-4D3E-AC0F-2B93CEE0A682}|ICEC_project.vcxproj|solutionrelative:engine.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A023B805-27AA-4D3E-AC0F-2B93CEE0A682}|ICEC_project.vcxproj|D:\\VS_folder\\ICEC_project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A023B805-27AA-4D3E-AC0F-2B93CEE0A682}|ICEC_project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "engine.ixx",
+              "DocumentMoniker": "D:\\VS_folder\\ICEC_project\\engine.ixx",
+              "RelativeDocumentMoniker": "engine.ixx",
+              "ToolTip": "D:\\VS_folder\\ICEC_project\\engine.ixx",
+              "RelativeToolTip": "engine.ixx",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAA0BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-05-19T19:17:47.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\VS_folder\\ICEC_project\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\VS_folder\\ICEC_project\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T19:18:43.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

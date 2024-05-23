@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\vs_folder\\icec_project\\main.ixx",
+        "ProvidedModule": "main",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
